@@ -1,0 +1,9 @@
+name: Nuclear Dawn
+main: com.westre.nucleardawn.Main
+version: 1.0
+author: westre
+description: >
+             Nuclear Dawn, a survival mode.
+commands:
+   chest:
+      description: Chest test.
